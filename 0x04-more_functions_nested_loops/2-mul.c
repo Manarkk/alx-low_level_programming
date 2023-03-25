@@ -1,10 +1,10 @@
 /**
  * mul - multiply two numbers
- * @a: 1st int
- * @b: 2nd int
- * Return: 0 , 1
+ * @a: number1
+ * @b: number2
+ * Return: a*b
  */
 int mul(int a, int b)
 {
-    return (a * b);
+	return (a * b);
 }

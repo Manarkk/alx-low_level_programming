@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main - prints text
  *
@@ -5,8 +6,6 @@
  *
  * return : Always 0 (Sucess)
  */
-
-#include <stdio.h>
 
 int main(void)
 {

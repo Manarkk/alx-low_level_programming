@@ -2,7 +2,7 @@
 /**
  * main - prints sizes
  *
- * reurn: 0
+ * return: 0
  *
  */
 int main(0)

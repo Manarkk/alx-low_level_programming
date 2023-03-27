@@ -1,6 +1,5 @@
 /**
- *
- * main - prints text
+ *main - prints text
  *
  * str = Hello World
  *

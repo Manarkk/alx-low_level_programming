@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints text
+ * main - prints hello world
  *
- * str = Hello World
- *
- * return : Always 0 (Sucess)
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)

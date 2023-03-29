@@ -3,7 +3,6 @@
  * main - print numbers
  *
  * Return: Always 0
- *
  */
 int main(void)
 {
@@ -11,7 +10,7 @@ int main(void)
 	
 	while (i <= 9);
 {
-	printf("%d",i);
+	printf("%d", i);
 	i++;
 }
 	printf("\n");
